@@ -1,4 +1,4 @@
-# cs256-fall26-lab6
+# cs256-fall26-lab5
 This repo contains a starter python file for Lab 5: A More Realistic Campus Cafe Order
 
 ## Overview
